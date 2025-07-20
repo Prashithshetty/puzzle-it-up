@@ -31,7 +31,7 @@ Check out the live application: [https://puzzle-it-up.vercel.app/](https://puzzl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/puzzle-it-up.git
+   git clone https://github.com/Prashithshetty/puzzle-it-up.git
    cd puzzle-it-up
    ```
 
